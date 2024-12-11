@@ -1,0 +1,27 @@
+
+.viewdoc{
+    background-color: bisque;
+    min-height: 87vh;
+}
+
+.cardtext{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(157, 25, 25);
+    font-weight: 300;
+}
+
+.spz{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.headingDoc {
+    color: #c00c0c; /* Blue color */
+    font-size: 2rem; /* 32px font size */
+    font-weight: bold; /* Bold text */
+    text-align: center; /* Center align text */
+    margin-bottom: 20px; /* Bottom margin of 20px */
+  }
+
+
+  

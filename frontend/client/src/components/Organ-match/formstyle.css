@@ -1,0 +1,50 @@
+.patient-entry-form {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .patient-entry-form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333; /* Set label color */
+    font-weight: bold; /* Set label font weight */
+  }
+  
+  .patient-entry-form input {
+    width: 100%;
+    padding: 5px; /* Add padding for input fields */
+    border: 1px solid #ccc; /* Add border for input fields */
+    border-radius: 4px; /* Add border radius for input fields */
+  }
+  
+  .patient-entry-form .form-group {
+    flex: 1;
+    margin-right: 10px;
+  }
+
+  .submit-button {
+    background-color: rgb(9, 72, 126);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .submit-button:hover {
+    background-color: #359ed2; /* Lighter shade of cyan on hover */
+  }
+
+  .nomatch{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: larger;
+    font-weight: 500;
+    opacity: 50%;
+  }
+  
+  

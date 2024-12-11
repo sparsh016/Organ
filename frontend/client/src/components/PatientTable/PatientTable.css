@@ -1,0 +1,51 @@
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 2px;
+  }
+  
+  .patient-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .patient-table th, .patient-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .headingPT{
+    font-weight:400; /* Make the headings bold */
+  padding: 2px; /* Add padding */
+  text-align: left; /* Align text to the left */
+  margin-top: 3px;
+  font-size: 2rem;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+
+
+  /* Define a set of colors */
+.organ-color-1 { background-color: #f10a0a; color: rgb(255, 255, 255); } /* Tomato */
+.organ-color-2 { background-color: #0e99a3; color: rgb(255, 255, 255);} /* Royal Blue */
+.organ-color-3 { background-color: #87da39; color: rgb(255, 255, 255);} /* Lime Green */
+.organ-color-4 { background-color: #e751bf; color: rgb(255, 255, 255); } /* Gold */
